@@ -18,6 +18,10 @@ header > img {
     padding-bottom: 30px;
 }
 
+div {
+    margin-left: 43%;
+}
+
 header > h1 {
     text-align: center;
     background-image: linear-gradient(to left, black, rgb(14, 22, 31), rgb(21, 61, 113)) ;
