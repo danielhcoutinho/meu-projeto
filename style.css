@@ -15,11 +15,7 @@ header {
 }
 
 header > img {
-    padding-bottom: 30px;
-}
-
-div {
-    margin-left: 43%;
+    padding-bottom: 0px;
 }
 
 header > h1 {
